@@ -4,6 +4,8 @@ Double Counter bypass © Surgud mommy
 
 - [Discord Certified Exploiter](https://github.com/passedout/DC-Bypass/blob/main/surgud.py)
 
+- [Hall of skids](https://github.com/passedout/DC-Bypass/blob/main/how%20mentally%20retarted%20skids%20act%20pov.md#1-retard-namberou-uno)
+
 - [+](https://t.me/tosviolators)
 
 - [+](https://discord.gg/nun)
